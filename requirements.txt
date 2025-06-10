@@ -1,0 +1,14 @@
+fastapi
+pydantic
+uvicorn
+pytorch-lightning
+torch
+torchvision
+opencv-python
+python-multipart
+pytest
+httpx
+mypy
+black
+flake8
+prometheus-client

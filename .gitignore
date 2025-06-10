@@ -1,0 +1,7 @@
+lightning_logs/
+model/__pycache__/
+model/*.pth
+app/**/__pycache__/
+__pycache__/
+app/__pycache__/
+tests/__pycache__/
